@@ -1,5 +1,8 @@
 # MangaPDF 漫画拼接工具
 
+<p align="center">
+  <img src="resources/icon.ico" width="128" height="128" alt="MangaPDF Icon">
+</p>
 
 ## 📖 项目简介
 
