@@ -5,6 +5,9 @@
 **MangaPDF** 是一款专为漫画爱好者设计的轻量级 PDF 拼接工具。它可以帮助你轻松将散乱的漫画图片（JPG/PNG/WEBP）按照自定义顺序合并成高质量的 PDF 文件。
 
 本项目采用 Python + PyQt6 开发，界面现代简洁，支持浅色/深色主题切换，并针对漫画阅读体验进行了优化（如自动尾页添加）。
+<p align="center">
+  <img src="https://github.com/XingChengZero/MangaPDF/blob/main/img/1.png?raw=true" alt="MangaPDF Preview" width="800">
+</p>
 
 ## ✨ 主要功能
 
@@ -85,4 +88,5 @@ manga_pdf_tool/
 ## 📝 许可证
 
 MIT License
+
 
