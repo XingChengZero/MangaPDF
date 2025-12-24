@@ -1,9 +1,5 @@
 # MangaPDF 漫画拼接工具
 
-<p align="center">
-  <img src="resources/icon.ico" width="128" height="128" alt="MangaPDF Icon">
-</p>
-
 ## 📖 项目简介
 
 **MangaPDF** 是一款专为漫画爱好者设计的轻量级 PDF 拼接工具。它可以帮助你轻松将散乱的漫画图片（JPG/PNG/WEBP）按照自定义顺序合并成高质量的 PDF 文件。
@@ -89,3 +85,4 @@ manga_pdf_tool/
 ## 📝 许可证
 
 MIT License
+
